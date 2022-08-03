@@ -17,3 +17,27 @@
 - [Pouleng 文件夹内的介绍（内含模糊音介绍）](./Pouleng/README.md) 
 - [兴化语记-拼音方案](https://hinghwa.cn/pinyin) 
 - [Bilibili 视频](https://www.bilibili.com/video/BV1RJ411q7yW)
+
+## 安装教程
+
+### 下载 RIME
+
+RIME / 中州韵输入法引擎，是一个跨平台的输入法算法框架。
+
+基于这一架构，在不同平台上有着不同的实验，例如 Windows 下的小狼毫， macOS 下的鼠须管， Android 下的同文等。
+
+详情可见 [RIME 官网下载页](https://rime.im/download/) 下载需要的版本。
+
+### 同文
+
+将 `Pouleng` 文件夹下的文件置入用户文件夹（默认为 `/sdcard/rime`，手机中的文件的 `rime` 文件夹）
+
+如果你是小白并不知道如何进行高级配置的话，也将 `requirements` 文件夹下的内容置入用户文件夹。
+
+> 使用手机 QQ 传输文件，但找不到 手机 QQ 把这些文件放在哪里？
+>
+> 答案是：`Android/data/com.tencent.mobileqq/Tencent/QQfile_recv`
+
+随后点击部署，勾选上 `莆仙话拼音-莆田` 即可。
+
+![同文](images/同文.jpg)
