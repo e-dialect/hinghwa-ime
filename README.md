@@ -4,6 +4,8 @@
 
 目前本方案适用于莆田市区口音（城里腔），其他口音使用者如果有词表也可以联系 [@Yaryou](https://github.com/Yaryou) 制作成输入码表。
 
+快速开始：点击 [Releases](https://github.com/e-dialect/hinghwa-ime/releases/latest) 下载相关文件，然后按照下方安装教程进行操作。
+
 ## 拼音方案
 
 ### 设计理念
