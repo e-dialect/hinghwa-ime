@@ -2,9 +2,9 @@
 
 基于 [Rime](https://rime.im/) 的莆仙话拼音输入方案。
 
-目前本方案适用于莆田市区口音（城里腔），其他口音使用者如果有词表也可以联系 [@Yaryou](https://github.com/Yaryou) 制作成输入码表。
+目前本方案适用于莆田市区口音（**城里腔**），其他口音使用者如果有词表也可以联系 [@Yaryou](https://github.com/Yaryou) 制作成输入码表。
 
-快速开始：点击 [Releases](https://github.com/e-dialect/hinghwa-ime/releases/latest) 下载相关文件，然后按照下方安装教程进行操作。
+**快速开始**：点击 [Releases](https://github.com/e-dialect/hinghwa-ime/releases/latest) 下载相关文件，然后按照下方[安装教程](#安装教程)进行操作。
 
 ## 拼音方案
 
@@ -50,7 +50,7 @@ RIME / 中州韵输入法引擎，是一个跨平台的输入法算法框架。
 
 随后点击部署，勾选上 `莆仙话拼音-莆田` 即可。
 
-![同文](images/同文.jpg)
+<img src="images/同文.jpg" alt="同文" style="zoom: 33%;" />
 
 ## 使用方法
 
@@ -58,7 +58,7 @@ RIME / 中州韵输入法引擎，是一个跨平台的输入法算法框架。
 
 使用上述拼音方案，直接键入相应的拼音即可。（支持模糊音）
 
-![输入样例](images/输入样例.png)
+<img src="images/输入样例.png" alt="输入样例" style="zoom: 67%;" />
 
 ### 切换输入法
 
